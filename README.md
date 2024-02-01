@@ -19,7 +19,7 @@ A simple To-Do list application built with Python, using the tkinter library for
 
     ```bash
     git clone https://github.com/TheBruteforcer/TO-DO-Application.git
-    cd todo-gui-app
+    cd TO-DO-Application
     ```
 
 2. Install the required modules:
