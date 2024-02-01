@@ -28,6 +28,11 @@ A simple To-Do list application built with Python, using the tkinter library for
     pip install -r requirements.txt
     ```
 
+## Screenshots
+
+![To-Do App Screenshot 1](/TO-DO-Application/screen-shots/Main.png)
+![To-Do App Screenshot 2](/TO-DO-Application/screen-shots/Add.png)
+
 ## Usage
 
 Run the app using the following command:
