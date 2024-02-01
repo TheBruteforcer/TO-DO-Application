@@ -30,8 +30,8 @@ A simple To-Do list application built with Python, using the tkinter library for
 
 ## Screenshots
 
-![To-Do App Screenshot 1](/TO-DO-Application/screen-shots/Main.png)
-![To-Do App Screenshot 2](/TO-DO-Application/screen-shots/Add.png)
+![To-Do App Screenshot 1](screen-shots/Main.png)
+![To-Do App Screenshot 2](screen-shots/Add.png)
 
 ## Usage
 
